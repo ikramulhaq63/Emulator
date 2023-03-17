@@ -1,4 +1,4 @@
-ettings ***
+Settings ***
 Documentation       Template robot main suite.
 
 Library    RPA.Desktop
